@@ -1,3 +1,53 @@
+INTRODUCTION
+
+Welcome to Unholy Harmonies, your one-stop-shop for exclusive artist merchandise. We offer 5 of our recommended metal artist’s along with their best four metal albums to date . So if you're a fan of hardcore metal and want to support your favorite artists, look no further than Unholy Harmonies.
+My site will allow users to browse and search for albums, view information about each artist’s albums as well as see pictures of albums, tracklists and customer reviews.
+
+
+PURPOSE & MOTIVATION 
+
+My motivation for building a website in React.js was to gain a comprehensive understanding of its basic workings. To do this, I decided to choose a project idea that aligned with my interests, and that's when Unholy Harmonies came to mind. Being a heavy music enthusiast, it seemed like the perfect opportunity for me to dive into the intricacies of building a website without overwhelming myself.
+
+To make this happen, I utilized various essential React features such as 'fetch' and 'useEffect' hooks, as well as 'params' and 'components'. These tools enabled me to create a dynamic website that can fetch data from various sources and display it on the frontend seamlessly. Overall, the project has given me valuable insights into React's fundamental concepts and allowed me to develop my skills in building interactive and engaging web applications.
+
+HOW DOES THIS APPLICATION WORK?
+
+Open entering my website users can easily log in or register to access their account, which allows them the ability to leave reviews on their favorite artist's albums.
+
+Users can also create a customized wishlist by selecting their preferred albums.
+
+In summary, my website not only offers a convenient platform for heavy metal lovers but also provides a range of user-friendly features, including review submission and wishlist creation, to elevate their overall experience.
+
+HOW WAS THIS APPLICATION MADE?
+
+I constructed this website utilizing the REACT framework for the frontend, along with a range of Javascript components. These components incorporate various tools such as useEffects, Fetch's, Functions, and JSX, which allowed me to deliver a responsive user experience. In addition, I leveraged CSS to design and style the site to achieve an aesthetically pleasing and visually engaging layout.
+ 
+ HOW TO INSTALL AND RUN THE APPLICATION?
+ 
+ -First if you will need to locate the folder in which the project is stored 
+ -Then through your terminal CD into the folder in which the project is saved
+ -Now go to the folder in which the unholy-api is located and paste this code json-server database.json -p 8088 -w
+ -Next in a seperate terminal window CD into your unholy folder and type "npm start"
+ -Last a tab in your browser should open with the site loaded. The website address should be http://localhost:3000/login/
+
+
+DIFFICULTIES AND CHALLENGES FACED DURING THIS PROJECT
+
+I had alot of trouble at the start with comprehending, useEffect, UseParam, JSX, and the overall workings of REACT. One of the two most difficult tasks was trying to get my albums to appear on my artist tab and getting my albums to save to my wishlist. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
