@@ -1,0 +1,16 @@
+.wishlist {
+  list-style-type: decimal;
+  color: #121112;
+  background-image: linear-gradient(-45deg, #f5f1f1, #e90a0a 33%, #f60a0a 33%, #ee0b0b 66%, #ec0c0c 66%);
+  background-size: 8px 8px;
+  animation: pulse 2s infinite;
+  width: 80px;
+}
+@keyframes pulse {
+    0% {
+      background-position: 0 0;
+    }
+    100% {
+      background-position: 8px 8px;
+    }
+}

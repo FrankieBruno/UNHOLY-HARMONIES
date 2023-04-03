@@ -1,0 +1,28 @@
+.review_section {
+    border: 2px solid rgb(255, 255, 255);
+}
+
+.track_list {
+    color: antiquewhite;
+    padding-left: 750px;
+}
+
+.review_list {
+    color: antiquewhite;
+}
+
+.review_article {
+    color: antiquewhite;
+}
+.album-image {
+    width: 300px;
+    height: auto;
+    padding-top: 50px;
+    padding-left: 670px;
+  }
+
+.save_album {
+    text-align: center;
+    margin: auto;
+    padding-top: 50px;
+}

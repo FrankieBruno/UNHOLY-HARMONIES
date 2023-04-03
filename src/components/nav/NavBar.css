@@ -1,0 +1,31 @@
+
+
+
+.home_text {
+    text-align: center;
+    padding-right: 150px;
+    color: white;
+    align-items: center;
+    padding-left: 160px;
+}
+
+.nav-barr {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 45px;
+    background-color: maroon;
+}
+
+.navbar__home1,
+.navbar__home2 {
+  color: white; /* Sets the font color to white */
+  margin-right: 20px; /* Adds a 20px margin to the right of each link */
+  padding-left: 50px;
+}
+
+.navbar__home1:hover,
+.navbar__home2:hover {
+  text-decoration: underline; /* Adds an underline to the link when hovered over */
+}
+

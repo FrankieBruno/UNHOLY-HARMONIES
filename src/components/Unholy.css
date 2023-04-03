@@ -1,0 +1,62 @@
+/* Import the google web fonts you want to use */
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
+
+/*Typography
+--------------------------------------------------------------*/
+body {
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+}
+
+
+.video-background {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+  object-fit: cover;
+}
+
+#myVideo {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+
+body,
+button,
+input,
+select,
+textarea {
+  color: #404040;
+  font-family: "Comfortaa", Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Patua One", serif;
+  letter-spacing: 2px;
+}
+
+p {
+  margin-bottom: 1.5em;
+}
+
+.title--main {
+  text-align: center;
+  margin-block-end: 0;
+}
+
+.title--main2 {
+  text-align: center;
+}
