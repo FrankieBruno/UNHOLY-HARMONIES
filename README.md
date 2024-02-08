@@ -22,11 +22,11 @@ I constructed this website utilizing the React framework for the frontend, along
 
 HOW TO INSTALL AND RUN THE APPLICATION?
 
-    First, you will need to locate the folder in which the project is stored.
-    Then, through your terminal, CD into the folder in which the project is saved.
-    Now go to the folder in which the unholy-api is located and paste this code: json-server database.json -p 8088 -w.
-    Next, in a separate terminal window, CD into your unholy folder and type "npm start".
-    Lastly, a tab in your browser should open with the site loaded. The website address should be http://localhost:3000/login/.
+-First, you will need to locate the folder in which the project is stored.
+-Then, through your terminal, CD into the folder in which the project is saved.
+-Now go to the folder in which the unholy-api is located and paste this code: json-server database.json -p 8088 -w.
+-Next, in a separate terminal window, CD into your unholy folder and type "npm start".
+-Lastly, a tab in your browser should open with the site loaded. The website address should be http://localhost:3000/login/.
 
 DIFFICULTIES AND CHALLENGES FACED DURING THIS PROJECT
 
